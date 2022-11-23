@@ -1,0 +1,15 @@
+/Users/avgust/Projects/sharpDolg/sharpDolg/bin/Debug/net6.0/sharpDolg
+/Users/avgust/Projects/sharpDolg/sharpDolg/bin/Debug/net6.0/sharpDolg.deps.json
+/Users/avgust/Projects/sharpDolg/sharpDolg/bin/Debug/net6.0/sharpDolg.runtimeconfig.json
+/Users/avgust/Projects/sharpDolg/sharpDolg/bin/Debug/net6.0/sharpDolg.dll
+/Users/avgust/Projects/sharpDolg/sharpDolg/bin/Debug/net6.0/sharpDolg.pdb
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/sharpDolg.csproj.AssemblyReference.cache
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/sharpDolg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/sharpDolg.AssemblyInfoInputs.cache
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/sharpDolg.AssemblyInfo.cs
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/sharpDolg.csproj.CoreCompileInputs.cache
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/sharpDolg.dll
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/refint/sharpDolg.dll
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/sharpDolg.pdb
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/sharpDolg.genruntimeconfig.cache
+/Users/avgust/Projects/sharpDolg/sharpDolg/obj/Debug/net6.0/ref/sharpDolg.dll

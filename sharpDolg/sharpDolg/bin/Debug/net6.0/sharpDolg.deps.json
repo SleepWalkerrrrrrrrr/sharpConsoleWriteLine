@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sharpDolg/1.0.0": {
+        "runtime": {
+          "sharpDolg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sharpDolg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
